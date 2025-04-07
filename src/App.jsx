@@ -1,7 +1,6 @@
 import { useEffect, useReducer } from 'react';
 import user from './components/data';
 import './App.css';
-import user from './components/data';
 
 const initialState = {
   name: "",
