@@ -3,11 +3,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          test
-        </p>
-      </header>
+      <div>
+      <h1>React ใช้ .jsx ได้! 🚀</h1>
+      <p>ลองเปลี่ยน App.js เป็น App.jsx แล้ว!</p>
+    </div>
     </div>
   );
 }
