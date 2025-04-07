@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reducer-testing/static/css/main.f855e6bc.css",
+    "main.js": "/reducer-testing/static/js/main.883ffbfd.js",
+    "static/js/453.c259e8cd.chunk.js": "/reducer-testing/static/js/453.c259e8cd.chunk.js",
+    "index.html": "/reducer-testing/index.html",
+    "main.f855e6bc.css.map": "/reducer-testing/static/css/main.f855e6bc.css.map",
+    "main.883ffbfd.js.map": "/reducer-testing/static/js/main.883ffbfd.js.map",
+    "453.c259e8cd.chunk.js.map": "/reducer-testing/static/js/453.c259e8cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.883ffbfd.js"
+  ]
+}
